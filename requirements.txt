@@ -1,0 +1,9 @@
+matplotlib~=3.5.1
+requests~=2.27.1
+shapely~=1.8.0
+pyproj~=3.3.0
+mapclassify==2.5.0
+geopandas==0.12.2
+fiona~=1.8.21
+ipykernel
+# pip install -r requirements.txt
