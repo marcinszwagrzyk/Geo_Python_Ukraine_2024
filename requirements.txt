@@ -5,4 +5,5 @@ pyproj~=3.3.0
 mapclassify==2.5.0
 geopandas==0.12.2
 fiona~=1.8.21
+ipykernel
 # pip install -r requirements.txt
