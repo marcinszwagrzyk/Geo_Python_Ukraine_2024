@@ -11,10 +11,8 @@ Finally, we will use some Python functionalities to plot at once, a tableu of sm
 
 During the workshop, the datasets, acquired from the freely available sources will be processed and analyzed with the use of the geopandas Python library. Subsequently, we will employ the matplotlib library to visualize the data - by leveraging popular cartographic techniques, including graduated colors and proportional symbols.
 
-
-
 * Python environment installation
 
 ```python
-conda create --name Name_of_the_Enviroment --file requirements.txt
+conda create --name myenv python=3.8.13 --file requirements.txt
 ```
