@@ -10,9 +10,3 @@ Finally, we will use some Python functionalities to plot at once, a tableu of sm
 -[ Excercise 3](3_Islands_series_of_maps.ipynb).
 
 During the workshop, the datasets, acquired from the freely available sources will be processed and analyzed with the use of the geopandas Python library. Subsequently, we will employ the matplotlib library to visualize the data - by leveraging popular cartographic techniques, including graduated colors and proportional symbols.
-
-* Python environment installation
-
-```python
-conda create --name myenv python=3.10.13 --file requirements.txt
-```
